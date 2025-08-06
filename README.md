@@ -25,8 +25,8 @@ Certainly! Here’s a sample **README.md** file tailored to your Java DBMS proje
 
 1. Clone the repository (if from GitHub):
    ```bash
-   git clone https://github.com/yourusername/java-dbms.git
-   cd java-dbms
+   git clone https://github.com/Dattu-22/VDBMS---personal-DBMS-built-using-Java.git
+   cd vdbms
    ```
 
 2. Compile the Java files:
